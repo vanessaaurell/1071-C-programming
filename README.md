@@ -10,4 +10,5 @@ Week 2
 * seconds.cpp
 
 Week 3
-* leap.cpp
+* leapwhile.cpp
+* secondswhile.cpp
