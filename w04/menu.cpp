@@ -50,7 +50,35 @@ int main()
             printf("\n");
         }
                 break;
+
+
             case 2:
+            for(int i=1;i<=height;++i){
+                for (int j=1;j<=height;++j){
+                    if(i==height || j==height || i==height || j==height-i+1)
+                    printf("*");
+                else
+                    printf(" ");
+            }
+            printf("\n");
+        }
+                break;
+
+
+            case 3:
+            for(int i=1;i<=height;++i){
+                for (int j=1;j<=height;++j){
+                    if(j==i || j==height || i==1)
+                    printf("*");
+                else
+                    printf(" ");
+            }
+            printf("\n");
+        }
+                break;
+
+
+            case 4:
             for(int i=1;i<=height;++i){
                 for (int j=i;j<=height;++j){
                     if(i==height || j==i || j==height)
@@ -62,14 +90,6 @@ int main()
             }
             printf("\n");
         }
-
-
-
-                break;
-            case 3:
-
-                break;
-            case 4:
 
                 break;
 
