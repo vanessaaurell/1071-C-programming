@@ -12,3 +12,7 @@ Week 2
 Week 3
 * leapwhile.cpp
 * secondswhile.cpp
+* sum.cpp
+
+Week 4
+* menu.cpp
