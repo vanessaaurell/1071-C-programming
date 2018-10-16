@@ -23,3 +23,6 @@ Week 4
 
 Week 5
 * menu3-2.cpp
+
+Week 6
+* daysPassed.cpp
