@@ -3,10 +3,10 @@
 ## Week 1
 * [welcome.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w01/welcome.cpp)
 * [tempconvert.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w01/tempconvert.cpp)
-* equations.cpp
+* [equations.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w01/equations.cpp)
 
 Week 2
-* leap.cpp
+* [leap.cpp]()
 * seconds.cpp
 
 Week 3
@@ -27,5 +27,6 @@ Week 5
 Week 6
 * daysPassed.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzk2Mjg4MzgsLTc1MzA3NzEzN119
+eyJoaXN0b3J5IjpbOTczMTU1NjU3LC0yMDc5NjI4ODM4LC03NT
+MwNzcxMzddfQ==
 -->
