@@ -6,13 +6,13 @@
 * [equations.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w01/equations.cpp)
 
 Week 2
-* [leap.cpp]()
-* seconds.cpp
+* [leap.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w02/leap.cpp)
+* [seconds.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w02/seconds.cpp)
 
 Week 3
-* leapwhile.cpp
-* secondswhile.cpp
-* sum.cpp
+* [leapwhile.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w03/leapwhile.cpp)
+* [secondswhile.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w03/secondswhile.cpp)
+* [sum.cpp]()
 
 Week 4
 * menu.cpp
@@ -27,6 +27,6 @@ Week 5
 Week 6
 * daysPassed.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczMTU1NjU3LC0yMDc5NjI4ODM4LC03NT
-MwNzcxMzddfQ==
+eyJoaXN0b3J5IjpbLTE0MTI1MzM3NDUsLTIwNzk2Mjg4MzgsLT
+c1MzA3NzEzN119
 -->
