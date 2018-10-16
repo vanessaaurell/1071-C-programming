@@ -27,8 +27,8 @@ Week 5
 
 Week 6
 * [daysPassed.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w06/daysPassed.cpp)
-* *[sort.cpp]
+* [sort.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w06/sort.cpp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MzQ4MDI4MiwtMjA3OTYyODgzOCwtNz
+eyJoaXN0b3J5IjpbMTY4MTM5ODExOCwtMjA3OTYyODgzOCwtNz
 UzMDc3MTM3XX0=
 -->
