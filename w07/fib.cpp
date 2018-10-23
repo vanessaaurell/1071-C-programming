@@ -10,7 +10,7 @@ long fib(int n)
 int main()
 {
     printf("fib(3) = %ld\n",fib(3));
-    printf("fib(9) = %ld\n",fib(9));
+    printf("fib(10) = %ld\n",fib(10));
     printf("fib(30) = %ld\n",fib(30));
 
 }
