@@ -33,8 +33,8 @@
 * [sum.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w07/sum.cpp)
 * [sumodd.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w07/sumodd.cpp)
 * [fib.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w07/fib.cpp)
-* gcd.cpp
+* [gcd.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w07/gcd.cpp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzNjI2OTgxLC01ODA2MTU1MjAsLTIwNz
-k2Mjg4MzgsLTc1MzA3NzEzN119
+eyJoaXN0b3J5IjpbLTE1NTY0NzIwOSwyMjM2MjY5ODEsLTU4MD
+YxNTUyMCwtMjA3OTYyODgzOCwtNzUzMDc3MTM3XX0=
 -->
