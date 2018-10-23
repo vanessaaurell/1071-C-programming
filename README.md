@@ -29,11 +29,11 @@
 * [daysPassed.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w06/daysPassed.cpp)
 * [sort.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w06/sort.cpp)
 
-##Week 7
-* sum.cpp
-* sumodd.cpp
-* fib.cpp
+## Week 7
+* [sum.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w07/sum.cpp)
+* [sumodd.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w07/sumodd.cpp)
+* [fib.cpp]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTA1MzQ2MjYsLTU4MDYxNTUyMCwtMj
-A3OTYyODgzOCwtNzUzMDc3MTM3XX0=
+eyJoaXN0b3J5IjpbNTY1Mzg2MjgsLTU4MDYxNTUyMCwtMjA3OT
+YyODgzOCwtNzUzMDc3MTM3XX0=
 -->
