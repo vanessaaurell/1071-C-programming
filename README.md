@@ -36,10 +36,10 @@
 * [gcd.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w07/gcd.cpp)
 * [tower.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w07/tower.cpp)
 
-Week 8
-* magic.cpp
+## Week 8
+* [magic.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w08/magic.cpp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4MzA4NTg1LC0xNTU2NDcyMDksMjIzNj
-I2OTgxLC01ODA2MTU1MjAsLTIwNzk2Mjg4MzgsLTc1MzA3NzEz
-N119
+eyJoaXN0b3J5IjpbMjAyNjk2MDg2LDkzODMwODU4NSwtMTU1Nj
+Q3MjA5LDIyMzYyNjk4MSwtNTgwNjE1NTIwLC0yMDc5NjI4ODM4
+LC03NTMwNzcxMzddfQ==
 -->
