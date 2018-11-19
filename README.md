@@ -38,6 +38,15 @@
 
 ## Week 8
 * [magic.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w08/magic.cpp)
+
+Week 9
+* date.cpp
+* lotto.cpp
+
+Week 10 - 期中考
+
+Week 11
+* knightTour.cpp
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjAyNjk2MDg2LDkzODMwODU4NSwtMTU1Nj
 Q3MjA5LDIyMzYyNjk4MSwtNTgwNjE1NTIwLC0yMDc5NjI4ODM4
