@@ -39,16 +39,16 @@
 ## Week 8
 * [magic.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w08/magic.cpp)
 
-Week 9
-* date.cpp
-* lotto.cpp
+## Week 9
+* [date.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w09/date.cpp)
+* [lotto.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w09/lotto.cpp)
 
-Week 10 - 期中考
+## Week 10 - 期中考
 
-Week 11
-* knightTour.cpp
+## Week 11
+* [knightTour.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w11/knightTour.cpp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjk2MDg2LDkzODMwODU4NSwtMTU1Nj
-Q3MjA5LDIyMzYyNjk4MSwtNTgwNjE1NTIwLC0yMDc5NjI4ODM4
-LC03NTMwNzcxMzddfQ==
+eyJoaXN0b3J5IjpbLTExMTAyMTQyNjEsMjAyNjk2MDg2LDkzOD
+MwODU4NSwtMTU1NjQ3MjA5LDIyMzYyNjk4MSwtNTgwNjE1NTIw
+LC0yMDc5NjI4ODM4LC03NTMwNzcxMzddfQ==
 -->
