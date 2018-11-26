@@ -47,8 +47,10 @@
 
 ## Week 11
 * [knightTour.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w11/knightTour.cpp)
+* [knightComplete.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w11/knightComplete.cpp)
+* [knightMagic.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w11/knightMagic.cpp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTAyMTQyNjEsMjAyNjk2MDg2LDkzOD
-MwODU4NSwtMTU1NjQ3MjA5LDIyMzYyNjk4MSwtNTgwNjE1NTIw
-LC0yMDc5NjI4ODM4LC03NTMwNzcxMzddfQ==
+eyJoaXN0b3J5IjpbNDYyNzM2OTE3LC0xMTEwMjE0MjYxLDIwMj
+Y5NjA4Niw5MzgzMDg1ODUsLTE1NTY0NzIwOSwyMjM2MjY5ODEs
+LTU4MDYxNTUyMCwtMjA3OTYyODgzOCwtNzUzMDc3MTM3XX0=
 -->
