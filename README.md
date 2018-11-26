@@ -50,10 +50,11 @@
 * [knightComplete.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w11/knightComplete.cpp)
 * [knightMagic.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w11/knightMagic.cpp)
 
-Week 12
-* lottoPointer.cpp
+## Week 12
+* [lottoPointer.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w12/lottoPointer.cpp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyNzM2OTE3LC0xMTEwMjE0MjYxLDIwMj
-Y5NjA4Niw5MzgzMDg1ODUsLTE1NTY0NzIwOSwyMjM2MjY5ODEs
-LTU4MDYxNTUyMCwtMjA3OTYyODgzOCwtNzUzMDc3MTM3XX0=
+eyJoaXN0b3J5IjpbMTQ2NjEzMzQwMCw0NjI3MzY5MTcsLTExMT
+AyMTQyNjEsMjAyNjk2MDg2LDkzODMwODU4NSwtMTU1NjQ3MjA5
+LDIyMzYyNjk4MSwtNTgwNjE1NTIwLC0yMDc5NjI4ODM4LC03NT
+MwNzcxMzddfQ==
 -->
