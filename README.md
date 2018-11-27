@@ -52,6 +52,7 @@
 
 ## Week 12
 * [lottoPointer.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w12/lottoPointer.cpp)
+* lottos_string.cpp
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTQ2NjEzMzQwMCw0NjI3MzY5MTcsLTExMT
 AyMTQyNjEsMjAyNjk2MDg2LDkzODMwODU4NSwtMTU1NjQ3MjA5
