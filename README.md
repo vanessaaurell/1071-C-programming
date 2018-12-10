@@ -57,11 +57,12 @@
 ## Week 13
 * [swap.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w13/swap.cpp)
 
-Week 14
-* str.cpp
+## Week 14
+* [str.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w14/str.cpp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTkzOTA4MSwxODk2MDAyMjQ0LDE0Nj
-YxMzM0MDAsNDYyNzM2OTE3LC0xMTEwMjE0MjYxLDIwMjY5NjA4
-Niw5MzgzMDg1ODUsLTE1NTY0NzIwOSwyMjM2MjY5ODEsLTU4MD
-YxNTUyMCwtMjA3OTYyODgzOCwtNzUzMDc3MTM3XX0=
+eyJoaXN0b3J5IjpbLTEwMzY3MDE1MDAsMTYxNTkzOTA4MSwxOD
+k2MDAyMjQ0LDE0NjYxMzM0MDAsNDYyNzM2OTE3LC0xMTEwMjE0
+MjYxLDIwMjY5NjA4Niw5MzgzMDg1ODUsLTE1NTY0NzIwOSwyMj
+M2MjY5ODEsLTU4MDYxNTUyMCwtMjA3OTYyODgzOCwtNzUzMDc3
+MTM3XX0=
 -->
