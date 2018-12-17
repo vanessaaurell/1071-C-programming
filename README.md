@@ -59,14 +59,14 @@
 
 ## Week 14
 * [str.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w14/str.cpp)
-* linkedlist2.cpp
+* [linkedlist2.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w14/linkedlist2.cpp)
 
-Week 15
-* listLotto.cpp
+## Week 15
+* [listLotto.cpp](https://github.com/vanessaaurell/1071-C-programming/blob/master/w15/listLotto.cpp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY3MDE1MDAsMTYxNTkzOTA4MSwxOD
-k2MDAyMjQ0LDE0NjYxMzM0MDAsNDYyNzM2OTE3LC0xMTEwMjE0
-MjYxLDIwMjY5NjA4Niw5MzgzMDg1ODUsLTE1NTY0NzIwOSwyMj
-M2MjY5ODEsLTU4MDYxNTUyMCwtMjA3OTYyODgzOCwtNzUzMDc3
-MTM3XX0=
+eyJoaXN0b3J5IjpbLTQyMDcwMjI3LC0xMDM2NzAxNTAwLDE2MT
+U5MzkwODEsMTg5NjAwMjI0NCwxNDY2MTMzNDAwLDQ2MjczNjkx
+NywtMTExMDIxNDI2MSwyMDI2OTYwODYsOTM4MzA4NTg1LC0xNT
+U2NDcyMDksMjIzNjI2OTgxLC01ODA2MTU1MjAsLTIwNzk2Mjg4
+MzgsLTc1MzA3NzEzN119
 -->
